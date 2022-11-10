@@ -1,10 +1,9 @@
 # Github-pages
 
-    
+    ### Teste
 
     
-
-    <img class="gitimage" src="githubpages..png"> 
+    
     <h3 class="subtitulo"> O que é o github pages? </h3>
     <br> 
     <h4 class="texto1"> Ele consiste em um serviço de hospedagem de site estático, ou seja, um projeto que utiliza arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub. Essa hospedagem ocorre pela execução dos arquivos procedida pela publicação em um site. </h4>
