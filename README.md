@@ -22,5 +22,4 @@
     <h4 class="texto10"> Se você utiliza o Windows, você pode acessar a pasta do seu projeto por meio do próprio explorador de arquivos, clicar dentro dela com o botão direito, e em seguida clicar na opção "Git Bash Here". Se você estiver utilizando Linux ou Mac, você pode acessar essa pasta pelo próprio Terminal do sistema. </h4>
     <br>
     <img class="moon" src="[moon.gif](https://www.google.com/search?q=gif%20star%20purple&tbm=isch&tbs=ic:trans&hl=pt-BR&sa=X&ved=0CAMQpwVqFwoTCODAtaPKo_sCFQAAAAAdAAAAABAc&biw=1903&bih=912#imgrc=4bCplboZyRw6IM)">
-</body>
-</html>
+
